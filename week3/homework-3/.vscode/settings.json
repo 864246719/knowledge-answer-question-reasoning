@@ -1,0 +1,8 @@
+{
+    "python.pythonPath": "C:\\Users\\Administrator.DESKTOP-HN1J6IE\\anaconda3\\envs\\myenv\\python.exe",
+    "type": "python",
+	"request": "launch",
+	"program": "${file}",
+	"cwd": "${fileDirname}",
+	"console": "externalTerminal"
+}
